@@ -1,0 +1,44 @@
+.table-right{
+    text-align: right;
+}
+.table-left{
+    text-align: left;
+}
+table{
+    width: 100%;
+}
+.border-line{
+    border-top: solid 1px black;
+}
+.in-div{
+    padding: 1% 0 1% 0;
+
+}
+
+.top-details{
+    text-align: center;
+    padding: 5% 0 2% 0;
+}
+.cv-form{
+    background-color: #dbd5d9;
+    width: 30%;
+    margin: auto;
+    border-radius: 4%;
+    padding: 5% 0% 5% 2%;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+
+input[type=submit]{
+    background-color: #7e8393;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 90%;
+}
+input[type=text], input[type=tel], select{
+    width: 90%;
+    height: 20px;
+}
